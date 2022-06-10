@@ -1,1 +1,1 @@
-[Readme.md](https://github.com/FaruxS/rsschool-cv/files/8882448/Readme.md)
+https://faruxs.github.io/rsschool-cv/cv
