@@ -1,1 +1,1 @@
-(https://faruxs.github.io/rsschool-cv/cv)
+https://faruxs.github.io/rsschool-cv/cv
