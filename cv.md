@@ -29,5 +29,3 @@ I am responsible and communicative. I work well in a team. Sociable, resourceful
 + English - Intermediate
 + Russian - Native
 + Kazakh - Native
-+ Uzbek - Fluent
-
