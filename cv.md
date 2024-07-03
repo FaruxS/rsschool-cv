@@ -23,3 +23,10 @@ I am responsible and communicative. I work well in a team. Sociable, resourceful
 + VS Code, IntelliJ IDEA
 
 ---
+
+### Languages:
+
++ English - Intermediate
++ Russian - Native
++ Kazakh - Native
++ Uzbek - Fluent
