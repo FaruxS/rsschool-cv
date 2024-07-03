@@ -14,3 +14,12 @@ I work as a construction engineer. I am currently studying IT technology. I'm go
 I am responsible and communicative. I work well in a team. Sociable, resourceful and curious. I set a goal and achieve!
 
 ---
+
+### Skills and Proficiency
++ HTML, CSS
++ JavaScript (Basic)
++ Git, GitHub
++ Adobe Photoshop, Autocad
++ VS Code, IntelliJ IDEA
+
+---
