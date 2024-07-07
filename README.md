@@ -1,1 +1,1 @@
-# rsschool-cv
+# [rsschool-cv](https://github.com/FaruxS/rsschool-cv.git)
